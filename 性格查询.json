@@ -1,0 +1,122 @@
+{
+  "逞强": {
+    "increase": "物攻",
+    "decrease": "生命"
+  },
+  "理性": {
+    "increase": "魔攻",
+    "decrease": "生命"
+  },
+  "坦率": {
+    "increase": "物防",
+    "decrease": "生命"
+  },
+  "焦虑": {
+    "increase": "魔防",
+    "decrease": "生命"
+  },
+  "热情": {
+    "increase": "速度",
+    "decrease": "生命"
+  },
+  "沉默": {
+    "increase": "生命",
+    "decrease": "物攻"
+  },
+  "聪明": {
+    "increase": "魔攻",
+    "decrease": "物攻"
+  },
+  "稳重": {
+    "increase": "物防",
+    "decrease": "物攻"
+  },
+  "警惕": {
+    "increase": "魔防",
+    "decrease": "物攻"
+  },
+  "胆小": {
+    "increase": "速度",
+    "decrease": "物攻"
+  },
+  "平和": {
+    "increase": "生命",
+    "decrease": "魔攻"
+  },
+  "固执": {
+    "increase": "物攻",
+    "decrease": "魔攻"
+  },
+  "天真": {
+    "increase": "物防",
+    "decrease": "魔攻"
+  },
+  "害羞": {
+    "increase": "魔防",
+    "decrease": "魔攻"
+  },
+  "开朗": {
+    "increase": "速度",
+    "decrease": "魔攻"
+  },
+  "忧郁": {
+    "increase": "生命",
+    "decrease": "物防"
+  },
+  "大胆": {
+    "increase": "物攻",
+    "decrease": "物防"
+  },
+  "专注": {
+    "increase": "魔攻",
+    "decrease": "物防"
+  },
+  "温顺": {
+    "increase": "魔防",
+    "decrease": "物防"
+  },
+  "急躁": {
+    "increase": "速度",
+    "decrease": "物防"
+  },
+  "粗心": {
+    "increase": "生命",
+    "decrease": "魔防"
+  },
+  "调皮": {
+    "increase": "物攻",
+    "decrease": "魔防"
+  },
+  "偏执": {
+    "increase": "魔攻",
+    "decrease": "魔防"
+  },
+  "懒散": {
+    "increase": "物防",
+    "decrease": "魔防"
+  },
+  "莽撞": {
+    "increase": "速度",
+    "decrease": "魔防"
+  },
+  "踏实": {
+    "increase": "生命",
+    "decrease": "速度"
+  },
+  "勇敢": {
+    "increase": "物攻",
+    "decrease": "速度"
+  },
+  "冷静": {
+    "increase": "魔攻",
+    "decrease": "速度"
+  },
+  "悠闲": {
+    "increase": "物防",
+    "decrease": "速度"
+  },
+  "慎重": {
+    "increase": "魔防",
+    "decrease": "速度"
+  }
+}
