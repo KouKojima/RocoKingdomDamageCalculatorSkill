@@ -19,7 +19,7 @@ description: Calculate PvP damage for the game 洛克王国 (Roco Kingdom). Use 
 
 ### 搜索宠物/技能
 
-观察根目录文件名以了解
+观察根目录文件名以了解，数据存在冲突则以更晚赛季的数据为准
 
 ### 计算伤害
 
